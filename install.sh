@@ -9,6 +9,8 @@ if [ -d "$HOME/.vim" ]; then
   mv "$HOME/.vim" "$HOME/.vim.bak"
 fi
 
+git submodule add git@github.com:gmarik/vundle.git
+
 if [ ! -d "$PWD/_vim" ]; then
   mkdir "$PWD/_vim"
 fi
