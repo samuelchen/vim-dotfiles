@@ -9,7 +9,7 @@ if [ -d "$HOME/.vim" ]; then
   mv "$HOME/.vim" "$HOME/.vim.bak"
 fi
 
-git clone git@github.com:gmarik/vundle.git vundle
+git clone https://github.com/gmarik/vundle vundle
 
 if [ ! -d "$PWD/_vim" ]; then
   mkdir "$PWD/_vim"
