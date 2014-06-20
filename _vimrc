@@ -1,4 +1,9 @@
 set encoding=utf-8
+set termencoding=utf-8
+set fileencoding=utf-8
+set fileencodings=ucs-bom,utf-8,chinese,cp936
+language messages en_US.utf-8
+
 set nocompatible               " be iMproved
 filetype off                   " required!
 
