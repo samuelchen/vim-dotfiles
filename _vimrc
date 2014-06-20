@@ -74,7 +74,7 @@ Bundle 'mikelue/vim-maven-plugin'
 Bundle 'altercation/vim-colors-solarized'
 Bundle 'skammer/vim-css-color'
 Bundle 'mgutz/vim-colors'
-Bundle 'ehamberg/vim-cute-python'
+"Bundle 'ehamberg/vim-cute-python'
 Bundle 'bling/vim-airline'
 Bundle 'chriskempson/base16-vim'
 Bundle 'chreekat/vim-paren-crosshairs'
@@ -88,6 +88,7 @@ filetype plugin indent on     " required!
 " Configurations
 """"""""""""""""
 set background=light
+set autochdir   "automatically change dir to current file
 
 " Wildmenu completion
 """""""""""""""""""""
