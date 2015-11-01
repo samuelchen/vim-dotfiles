@@ -22,7 +22,7 @@ Bundle 'gmarik/vundle'
 
 
 " VCS
-Bundle 'tpope/vim-fugitive'
+" Bundle 'tpope/vim-fugitive'  " git wrapper
 
 " System
 Bundle 'mattn/webapi-vim'
@@ -42,23 +42,23 @@ Bundle 'scrooloose/nerdtree'
 Bundle 'jistr/vim-nerdtree-tabs'
 
 " Syntaxes and such.
-Bundle 'tpope/vim-cucumber'
+" Bundle 'tpope/vim-cucumber'
 Bundle 'leshill/vim-json'
-Bundle 'tpope/vim-liquid'
-Bundle 'puppetlabs/puppet-syntax-vim'
-Bundle 'tpope/vim-haml'
+" Bundle 'tpope/vim-liquid'
+" Bundle 'puppetlabs/puppet-syntax-vim'
+" Bundle 'tpope/vim-haml'
 Bundle 'kchmck/vim-coffee-script'
-Bundle 'plasticboy/vim-markdown'
+"Bundle 'plasticboy/vim-markdown'
 Bundle 'groenewege/vim-less'
 Bundle 'othree/html5.vim'
-Bundle 'mutewinter/nginx.vim'
-Bundle 'msanders/cocoa.vim'
-Bundle 'empanda/vim-varnish'
+" Bundle 'mutewinter/nginx.vim'
+" Bundle 'msanders/cocoa.vim'
+" Bundle 'empanda/vim-varnish'
 Bundle 'itspriddle/vim-jquery'
-Bundle 'atourino/jinja.vim'
+" Bundle 'atourino/jinja.vim'
 
 " Python bundles
-Bundle 'nvie/vim-flake8'
+" Bundle 'nvie/vim-flake8'
 Bundle 'fs111/pydoc.vim'
 Bundle 'vim-scripts/python_match.vim'
 Bundle 'jmcantrell/vim-virtualenv'
@@ -68,23 +68,23 @@ Bundle "vim-ruby/vim-ruby"
 Bundle 'tpope/vim-endwise'
 
 " Clojure
-Bundle 'guns/vim-clojure-static'
-Bundle 'tpope/vim-foreplay'
-Bundle 'tpope/vim-classpath'
+" Bundle 'guns/vim-clojure-static'
+" Bundle 'tpope/vim-foreplay'
+" Bundle 'tpope/vim-classpath'
 
 " Java
-Bundle 'mikelue/vim-maven-plugin'
+" Bundle 'mikelue/vim-maven-plugin'
 
 " Fun, but not useful
 Bundle 'altercation/vim-colors-solarized'
 Bundle 'skammer/vim-css-color'
 Bundle 'mgutz/vim-colors'
-"Bundle 'ehamberg/vim-cute-python'
+" Bundle 'ehamberg/vim-cute-python'
 Bundle 'bling/vim-airline'
 Bundle 'chriskempson/base16-vim'
-Bundle 'chreekat/vim-paren-crosshairs'
-Bundle 'laktek/distraction-free-writing-vim.git'
-Bundle 'jacekd/vim-iawriter'
+" Bundle 'chreekat/vim-paren-crosshairs'
+" Bundle 'laktek/distraction-free-writing-vim.git'
+" Bundle 'jacekd/vim-iawriter'
 Bundle 'Acarapetis/vim-github-theme'
 Bundle 'Lokaltog/vim-distinguished.git'
 
